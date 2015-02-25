@@ -1,0 +1,86 @@
+body {
+	background-color: #5795e1;
+	color : white;
+	font-family: 'Raleway', 'sans-serif';
+	text-align: center;
+}
+
+.wrap{
+	padding-top: 10%;
+	}
+
+div#logo {
+	background-image:url(money.png);
+	background-repeat:no-repeat;
+	width: 640px;
+	height: 240px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h1{
+	font-weight: 300;
+	font-size: 1.8em;
+}
+
+h2{
+	font-weight: 300;
+	font-size: 1.2em;
+	color: #3a6294;
+	margin-top: -15px;
+
+}
+
+h3{
+	font-weight: 300;
+	font-size: 2.2em;
+	color: #5795e1;
+	padding: 25px;
+	background-color: white;
+	border-radius: 15px;
+
+}
+
+button{
+	color: white;
+	padding: 20px;
+	background-color: #436de7;
+	border-radius: 5px;
+	border: none;
+	margin: 50px;
+	font-size: 0.8em;
+	font-weight: 700;
+	text-transform: uppercase;
+	box-shadow: 0px 0px 25px #3a6294;
+	transition: 0.7s;
+}
+
+button:hover{
+	box-shadow: 0px 0px 0px #fff;
+}
+
+a{
+	text-decoration: none;
+	font-weight: 700;
+	color: #3a6294;
+}
+
+p{
+	font-weight: 100;
+	color: #3a6294;
+}
+
+#content{
+width: 800px;
+margin: auto;
+margin-top: 50px;
+
+}
+
+
+footer{
+	position: absolute;
+	bottom: 50px;
+	margin-left: 42%;
+}
