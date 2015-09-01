@@ -7,7 +7,7 @@ body {
 }
 
 .wrap{
-	padding-top: 10%;
+	/*padding-top: 10%;*/
 	}
 
 div#logo {
@@ -16,8 +16,8 @@ div#logo {
 	width: 640px;
 	height: 240px;
 	margin: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	/*margin-top: 50px;
+	margin-bottom: 50px;*/
 }
 
 h1{
